@@ -2,6 +2,8 @@
 
 Este es un frontend desarrollado en Next.js diseñado para la parte administrativa del estacionamiento. Permite gestionar los registros de vehículos, patentes y ubicaciones almacenados en el backend. 🚀
 
+ 🖼️ Imagen de referencia
+![Captura de la base de datos](front2_captura.png)
 ## 📌 Características
 - ✅ Visualización y gestión de los vehículos estacionados.
 - ✅ Conexión con el backend en Django.
